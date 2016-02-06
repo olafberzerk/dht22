@@ -10,6 +10,8 @@
 
 #include <arduino.h>
 #include <dht.h>
+//#include <wire.h>
+//#include <LiquidCrystal_I2C.h>
 
 #define DHT22_PIN 2
 
